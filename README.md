@@ -1,5 +1,8 @@
 Why its called AUtoruns90 ?
-Eh, i got tool from sysinternal far away ago.
+
+Eh, i got tool from sysinternal far away ago on OS, now i'm on lucky :)
+
+
 Removing bloatware—those pre-installed apps and programs you didn’t ask for—can be a smart move for several reasons. Here’s why it’s worth considering:
 
 ### 🚀 Performance Boost
