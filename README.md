@@ -1,6 +1,8 @@
 Why its called Autoruns90-APK ?
 
-Eh, i got tool from sysinternal far away ago on OS, now i'm on luckies software, 90 for nop operation that you'll find in ASM ¡÷×¿ø
+Eh, i got tool from sysinternal far away ago on wOS, now i'm on luckies software on distros, 90 for nop operation that you'll find in ASM :)
+
+APK : Guess ? Android Package
 
 
 Removing bloatware—those pre-installed apps and programs you didn’t ask for—can be a smart move for several reasons. Here’s why it’s worth considering:
