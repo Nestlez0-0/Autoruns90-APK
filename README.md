@@ -4,6 +4,8 @@ Eh, i got tool from sysinternal far away ago on wOS, now i'm on luckies software
 
 APK : Guess ? Android Package
 
+ChromeOS : 👍
+Samsung : 👍
 
 Removing bloatware—those pre-installed apps and programs you didn’t ask for—can be a smart move for several reasons. Here’s why it’s worth considering:
 
