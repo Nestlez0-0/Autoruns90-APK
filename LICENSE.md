@@ -2,17 +2,14 @@
 
 > Original source: https://www.pandadoc.com/source-code-license-agreement-template/
 
-> PandaTip: Using the text field below in the source code license agreement template you can document any and all software that will be included in this source code license agreement.
+This source code license agreement is by and between **{Sender.FirstName} {Sender.FirstName}** (Software Provider) and **{Lisence.Nestlez} {License.Hakobs}** (Licensee).
 
-This source code license agreement is by and between **{Sender.FirstName} {Sender.FirstName}** (Software Provider) and **{Licensee.FirstName} {Licensee.LastName}** (Licensee).
-
-This agreement shall begin on **{Agreement.CreatedDate}**.
+This agreement shall begin on **{19/08/25}, updated every move for sync**.
 
 ## Software Covered
 
 This agreement covers the access and use of the source code for the following software, hereafter known as the “Software”.
 
-(insert multi-line text field here)
 
 ## Payment
 
@@ -20,7 +17,7 @@ In consideration of the above, the Licensee agrees to provide the Software Provi
 
 | Name	| Price	| QTY	| Subtotal |
 | --- | --- | --- | --- |
-| {Name} | $0.00 | 1 | $0.00 |
+| {Autoruns90-APK} | $0.15 (www.sploit.gt.tc) | 8 | $1.00 - Deal|
 | **Subtotal**  |||      $0.00 |
 | **Total**  |||  $0.00 |
 
@@ -45,7 +42,6 @@ In consideration of all terms and conditions contained within this contract the 
 - The Licensee will hold the right to incorporate the dynamic and statically linked libraries that the Software Provider has developed.
 - Furthermore, the Licensee will have the ability to make and distribute an unlimited number of copies of the libraries mentioned above.
 
-> PandaTip: The following template section outlines any restrictions related to the software’s use, modification, or distribution.
 
 ## Restrictions
 
@@ -58,8 +54,6 @@ Unless prior written consent has been obtained from the Software Owner, the foll
 - Disclosure of any source codes pertaining to the software to any additional parties not included in this agreement.
 - The Licensee shall not disassemble, decompile or reverse engineer any object code contained within the software.
 - The number of licenses being used may at no point and time be more than the number of licenses purchased through this agreement.
-
-> PandaTip: The warranties section of this source code agreement template makes it clear that the source code is provided “as-is”, with no guarantee as to performance, stability, or ongoing reliability.
 
 ## Warranties
 
